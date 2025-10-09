@@ -11,7 +11,7 @@ function App() {
       
         </header>
 <div className="titulo">
-<h1>Testes com react</h1>
+<h1>Comportamentos de acessibilidade com react</h1>
 </div>
 <ul id="lista" aria-label="pessoas">
 <li>Gustavo</li>
